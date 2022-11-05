@@ -1,3 +1,5 @@
+import { BASE_URL } from "../constant";
+
 export const getRoute = (path) => {
-  return `/React-Fundamental/${path}`
-}
+  return `${BASE_URL}/${path}`;
+};
