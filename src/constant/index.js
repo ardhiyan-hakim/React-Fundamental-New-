@@ -1,4 +1,4 @@
-const BASE_URL = "/React-Notes";
+const BASE_URL = "/React-Fundamental-New-";
 
 export const DEFAULT_PATH = `${BASE_URL}`;
 export const ARCHIVE_PAGE_PATH = `${BASE_URL}/archives`;
