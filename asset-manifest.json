@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/React-Notes/static/css/main.b9559368.css",
-    "main.js": "/React-Notes/static/js/main.9e6af3fe.js",
-    "static/media/not-found.svg": "/React-Notes/static/media/not-found.bc0886a0aa6b8a5113562dbb4f13c580.svg",
-    "index.html": "/React-Notes/index.html",
-    "main.b9559368.css.map": "/React-Notes/static/css/main.b9559368.css.map",
-    "main.9e6af3fe.js.map": "/React-Notes/static/js/main.9e6af3fe.js.map"
+    "main.css": "/React-Fundamental-New-/static/css/main.b9559368.css",
+    "main.js": "/React-Fundamental-New-/static/js/main.d9d02584.js",
+    "static/media/not-found.svg": "/React-Fundamental-New-/static/media/not-found.bc0886a0aa6b8a5113562dbb4f13c580.svg",
+    "index.html": "/React-Fundamental-New-/index.html",
+    "main.b9559368.css.map": "/React-Fundamental-New-/static/css/main.b9559368.css.map",
+    "main.d9d02584.js.map": "/React-Fundamental-New-/static/js/main.d9d02584.js.map"
   },
   "entrypoints": [
     "static/css/main.b9559368.css",
-    "static/js/main.9e6af3fe.js"
+    "static/js/main.d9d02584.js"
   ]
 }
